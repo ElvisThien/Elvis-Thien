@@ -3,12 +3,12 @@
 
 [Brief Introduction - Remove this afterwards]
 
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+Security professional with a proven record in high-risk environments, now pursuing a career in cybersecurity to leverage my operational security expertise and analytical mindset.
 
 ## Objective
 [Provide Objective - Remove this afterwards]]
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+My journey in security has sparked a passion for protecting people from harm, and combined with my strong interest in electronics, it has inspired me to pursue a career in cybersecurity. I am now eager to transition into this field, with a specific goal of joining a Security Operations Center (SOC) as a Tier 1 Analyst.
 
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
@@ -20,8 +20,10 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
-
+| Scripting and Automation for Threat Mitigation| SOC Automation Lab|
+| File permissions in Linux                     | Google Certifcation lab|   
+| Conducting Secuirty Audits                    | Google Certifcation lab|
+| Incident report anaysis                       | Google Certifcation lab|
 ## Tools
 [Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 
