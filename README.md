@@ -18,9 +18,9 @@ My journey in security has sparked a passion for protecting people from harm, an
 | SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | |
-| Incident Response Planning and Execution      | |
-| Case Management with TheHive                  | |
-| Scripting and Automation for Threat Mitigation| Google Certificaton lab|
+| Data leak worksheet                           | Google Certificaton lab|
+| Vulenerabilty assessment reports              | Google Certificaton lab|
+| Compliance Checklist                          | Google Certificaton lab|
 | File permissions in Linux                     | Google Certifcation lab|   
 | Conducting Secuirty Audits                    | Google Certifcation lab|
 | Incident report anaysis                       | Google Certifcation lab|
